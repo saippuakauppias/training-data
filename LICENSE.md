@@ -1,7 +1,7 @@
 License
 ========
 
-[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru) (Creative Commons — «Attribution-NonCommercial-ShareAlike» 3.0)
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0) (Creative Commons — «Attribution-NonCommercial-ShareAlike» 3.0)
 
 Licence «Attribution — NonCommercial — ShareAlike»
 
