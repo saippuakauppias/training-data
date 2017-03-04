@@ -8,7 +8,7 @@ List size after parsing:
 * Number of characters: 33 258 628
 * File size: 31.7 MB
 
-It can be downloaded here: [https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_original.zip](titles_wsjcom_original.zip, 13,9 MB)
+It can be downloaded here: [titles_wsjcom_original.zip, 13,9 MB](https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_original.zip)
 
 After clearing the text using the [text_cleaner](https://github.com/saippuakauppias/training-data/tree/master/text_cleaner) program, the following list was received:
 
@@ -17,7 +17,7 @@ After clearing the text using the [text_cleaner](https://github.com/saippuakaupp
 * Number of characters: 21 693 282
 * File size: 20,6 MB
 
-It can be downloaded here: [https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_cleaned.zip](titles_wsjcom_cleaned.zip, 8,86 MB)
+It can be downloaded here: [titles_wsjcom_cleaned.zip, 8,86 MB](https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_cleaned.zip)
 
 
 Заголовки новостей из "The Wall Street Journal"
@@ -31,7 +31,7 @@ It can be downloaded here: [https://github.com/saippuakauppias/training-data/rel
 * Количество символов: 33 258 628
 * Размер файла: 31,7 МБ
 
-Его можно скачать по ссылке: [https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_original.zip](titles_wsjcom_original.zip, 13,9 МБ)
+Его можно скачать по ссылке: [titles_wsjcom_original.zip, 13,9 МБ](https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_original.zip)
 
 После очистки текста с помощью программы [text_cleaner](https://github.com/saippuakauppias/training-data/tree/master/text_cleaner) был получен следующий список:
 
@@ -40,4 +40,4 @@ It can be downloaded here: [https://github.com/saippuakauppias/training-data/rel
 * Количество символов: 21 693 282
 * Размер файла: 20,6 МБ
 
-Его можно скачать по ссылке: [https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_cleaned.zip](titles_wsjcom_cleaned.zip, 8,86 МБ)
+Его можно скачать по ссылке: [titles_wsjcom_cleaned.zip, 8,86 МБ](https://github.com/saippuakauppias/training-data/releases/download/v1.0/titles_wsjcom_cleaned.zip)
